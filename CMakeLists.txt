@@ -4,7 +4,7 @@ project(MerkelRex)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(MerkelRex
-        main.cpp
+        MerkelRex.cpp
         MerkelMain.cpp
         MerkelMain.h
         OrderBook.cpp
